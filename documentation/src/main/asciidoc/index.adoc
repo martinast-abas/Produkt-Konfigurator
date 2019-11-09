@@ -1,0 +1,17 @@
+:docinfo:
+= prodKonfig
+Documentation
+:nofooter:
+
+This document describes the prodKonfig app.
+
+include::subpage.adoc[]
+
+include::additionalpage.adoc[]
+
+== About
+
+prodKonfig +
+(C) Your Company
+
+https://your-website.com/
